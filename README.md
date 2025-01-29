@@ -40,9 +40,10 @@ password-toggle/
 ```
 
 ## Demo
-You can check out the live demo [here](#) ().
+You can check out the live demo [here](#) (https://uf123l0.github.io/Password-Toggle/).
 
 ## Contributing
 Feel free to contribute by submitting a pull request!
 
-
+## License
+This project is licensed under the MIT License.
